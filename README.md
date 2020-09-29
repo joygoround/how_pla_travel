@@ -72,6 +72,10 @@ analyzing travel trends of people who are living alone(pla) and clustering with 
 ### ML(K-means Clustering)을 통한 군집화
 총 3개의 군집으로 군집화
 
+![image](https://user-images.githubusercontent.com/60169895/94513531-e5761c80-0259-11eb-8ead-fa34a19d3a71.png)
+
+![image](https://user-images.githubusercontent.com/60169895/94513413-9a5c0980-0259-11eb-85b1-c5fe378a04a8.png)
+
 ### 군집 별 특성 요약 및 시각화
 
 
