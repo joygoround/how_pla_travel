@@ -77,12 +77,17 @@ analyzing travel trends of people who are living alone(pla) and clustering with 
 ![image](https://user-images.githubusercontent.com/60169895/94513413-9a5c0980-0259-11eb-85b1-c5fe378a04a8.png)
 
 ### 군집 별 특성 요약 및 시각화
+![image](https://user-images.githubusercontent.com/60169895/95033961-f4961800-06fa-11eb-89bd-393b7b970ccd.png)
+![image](https://user-images.githubusercontent.com/60169895/95033981-02e43400-06fb-11eb-900a-a626b69bea20.png)
+![image](https://user-images.githubusercontent.com/60169895/95034001-12fc1380-06fb-11eb-9268-aac39a517256.png)
 
 
-
-
-
-
+## Review
+- 1인 가구 데이터의 여행 패턴을 세부 유형으로 분류(군집화)하고 유형별 특정을 분석함.
+- 관광지와 관광 프로그램 개선에 도움이 되는 인사이트를 도출하고자 함.
+- 비지도학습 군집화  실습할 수 있었음
+- 데이터를 다양한 방법으로 분석하고 시각화 한 후 의미를 찾아내는 과정이 흥미로웠음
+- 원본 데이터에 결측치가 많아 활용에 아쉬운 부분이 있었음
 
 
 
